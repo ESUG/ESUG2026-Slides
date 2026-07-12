@@ -8,4 +8,4 @@ Where DD is the day number
 
 Presentations that don't have slides will have a .txt file explaining this.
 
-**The full list of slides can be found in [ESUG 2026 - Slides.xlsx](./ESUG 2026 - Slides.xlsx)**. The missing slides are marked in red.
+**The full list of slides can be found in [ESUG 2026 - Slides.xlsx](ESUG%202026%20-%20Slides.xlsx)**. The missing slides are marked in red.
